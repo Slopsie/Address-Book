@@ -1,0 +1,9 @@
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\bin\Debug\Level2.exe.config
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\bin\Debug\Level2.exe
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\bin\Debug\Level2.pdb
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.csprojResolveAssemblyReference.cache
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.Form1.resources
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.Properties.Resources.resources
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.csproj.GenerateResource.Cache
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.exe
+c:\users\slopsie\documents\visual studio 2015\Projects\Level2\Level2\obj\Debug\Level2.pdb
